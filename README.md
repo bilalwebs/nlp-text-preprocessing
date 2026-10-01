@@ -45,7 +45,7 @@ This project applies the preprocessing techniques from **NLP Lecture 03 (NLP Too
 
 ```
 nlp-text-preprocessing/
-├── RollNo_Muhammad_Bilal_Hussain_Activity3.ipynb   # Main notebook (with outputs)
+├── BSE23S113_Muhammad_Bilal_Hussain_Activity3.ipynb   # Main notebook (with outputs)
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -58,7 +58,7 @@ Click the **Open In Colab** badge at the top, then choose **Runtime > Run all**.
 
 ### Option 2: Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/nlp-text-preprocessing.git
+git clone https://github.com/bilalwebs/nlp-text-preprocessing.git
 cd nlp-text-preprocessing
 pip install -r requirements.txt
 jupyter notebook
